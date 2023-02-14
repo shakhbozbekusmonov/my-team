@@ -252,6 +252,18 @@ a{
     background-position: calc(50% + 759px) calc(50% + 220px);
 }
 
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) { 
+    .buildm{
+        background-image: url("../images/buildm__bg@2x.png");
+    }
+}
+
 .buildm__wrapper {
     display: flex;
     justify-content: space-between;

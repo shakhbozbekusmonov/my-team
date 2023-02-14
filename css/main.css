@@ -249,7 +249,7 @@ a{
     background-color: var(--footer-bg-color);
     background-image: url("../images/buildm__bg.png");
     background-repeat: no-repeat;
-    background-position: calc(50% + 715px) calc(50% + 240px);
+    background-position: calc(50% + 759px) calc(50% + 220px);
 }
 
 .buildm__wrapper {

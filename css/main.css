@@ -1,56 +1,56 @@
 /* livvic-regular - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Livvic';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/livvic-v13-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/livvic-v13-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/livvic-v13-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/livvic-v13-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-500 - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Livvic';
-  font-style: normal;
-  font-weight: 500;
-  src: url('../fonts/livvic-v13-latin-500.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/livvic-v13-latin-500.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/livvic-v13-latin-500.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/livvic-v13-latin-500.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-500italic - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Livvic';
-  font-style: italic;
-  font-weight: 500;
-  src: url('../fonts/livvic-v13-latin-500italic.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/livvic-v13-latin-500italic.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Livvic';
+    font-style: italic;
+    font-weight: 500;
+    src: url('../fonts/livvic-v13-latin-500italic.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/livvic-v13-latin-500italic.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-600 - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Livvic';
-  font-style: normal;
-  font-weight: 600;
-  src: url('../fonts/livvic-v13-latin-600.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/livvic-v13-latin-600.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/livvic-v13-latin-600.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/livvic-v13-latin-600.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-700 - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Livvic';
-  font-style: normal;
-  font-weight: 700;
-  src: url('../fonts/livvic-v13-latin-700.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/livvic-v13-latin-700.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/livvic-v13-latin-700.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/livvic-v13-latin-700.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-700italic - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Livvic';
-  font-style: italic;
-  font-weight: 700;
-  src: url('../fonts/livvic-v13-latin-700italic.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/livvic-v13-latin-700italic.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Livvic';
+    font-style: italic;
+    font-weight: 700;
+    src: url('../fonts/livvic-v13-latin-700italic.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/livvic-v13-latin-700italic.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 
@@ -108,7 +108,7 @@ img{
 
 .container{
     width: 100%;
-    max-width: 1320px;
+    max-width: 1150px;
     margin-right: auto;
     margin-left: auto;
     padding-right: 20px;
@@ -126,3 +126,54 @@ ul{
 a{
     text-decoration: none;
 }
+
+/************** HEADER STYLES START *************/
+.site-header{
+    padding-top: 73px;
+    padding-bottom: 73px;
+    background-color: var(--header-bg-color);
+}
+
+.site-header__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-header__wrapper--start{
+    display: flex;
+    align-items: center;    
+}
+
+.site-header__logo{
+    margin-right: 80px;
+}
+
+.site-header__logo--img{
+    width: 160px;
+    height: 40px;
+}
+
+.sitenav__list{
+    display: flex;
+}
+
+.sitenav__item:not(:last-child){
+    margin-right: 40px;
+}
+
+.sitenav__link{
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--main-text-color);
+}
+
+.site-header__btn{
+    padding: 9px 33px;
+    border: 2px solid var(--main-text-color);
+    border-radius: 24px;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--main-text-color);
+}
+/************** HEADER STYLES END *************/

@@ -53,7 +53,6 @@
     url('../fonts/livvic-v13-latin-700italic.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-
 /* ROOT */
 :root{
     --header-bg-color: #014E56;
@@ -240,6 +239,7 @@ a{
     background-color: var(--deliver-name-color);
 }
 /**** HERO SECTION STYLES END ****/
+<<<<<<< HEAD
 /****** DEL SECTION START *********/
 .del{
     padding-top: 140px;
@@ -326,4 +326,94 @@ a{
     border: 2px solid #BAF2F3;
 }
 /******** DEL SECTION END ***************/
+=======
+/* •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• */
+/* DONE•BY•ALI9AHMAD */
+/* BUILDM•STYLES•START */
+
+.buildm {
+    padding-top: 140px;
+    padding-bottom: 140px;
+    background-color: var(--footer-bg-color);
+    background-image: url("../images/buildm__bg.png");
+    background-repeat: no-repeat;
+    background-position: calc(50% + 759px) calc(50% + 220px);
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) { 
+    .buildm{
+        background-image: url("../images/buildm__bg@2x.png");
+    }
+}
+
+.buildm__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buildm-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 125px;
+    width: 445px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 48px;
+    color: var(--main-text-color);
+}
+
+.buildm-title::before {
+    display: block;
+    content: "";
+    margin-bottom: 50px;
+    width: 50px;
+    height: 4px;
+    background-color: var(--main-subtitle-color);
+}
+
+.buildm__wrapper--end {
+    padding-top: 50px;
+}
+
+.buildm__item {
+    display: flex;
+    width: 540px;
+}
+
+.buildm__item:not(:last-child) {
+    margin-bottom: 32px;
+}
+
+.buildm__item--image {
+    width: 72px;
+    height: 72px;
+    margin-right: 23px;
+}
+
+.buildm__item--title {
+    margin-top: 0;
+    margin-bottom: 16;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--main-subtitle-color);
+}
+
+.buildm__item--desc {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    line-height: 25px;
+    color: var(--main-text-color);
+}
+/* /BUILDM•STYLES•END */
+/* •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• */
+
+>>>>>>> a9fcc6eb069c5946c6891c36cc6ab0505beeed42
 /************** MAIN STYLES END *************/

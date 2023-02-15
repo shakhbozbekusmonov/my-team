@@ -240,4 +240,90 @@ a{
     background-color: var(--deliver-name-color);
 }
 /**** HERO SECTION STYLES END ****/
+/****** DEL SECTION START *********/
+.del{
+    padding-top: 140px;
+    padding-bottom: 151px;
+    background-color: var(--deliver-bg-color);
+    background-image: url(../images/del-leftbg.svg), url(../images/BG_right.svg);
+    background-repeat: no-repeat;
+    background-position: calc(50% - 650px) calc(50% - 389px),
+    calc(50% + 650px) calc(50% + 395px);
+}
+.del-title{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 92px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 932px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 48px;
+    color: var(--main-text-color)
+}
+.del-subtitle{
+    color: var(--deliver-name-color);
+}
+.del-list{
+    display: flex;
+    justify-content: space-around;
+}
+.del-item{
+    text-align: center;
+}
+
+.del-comments::before{
+    z-index: -100px;
+    margin-bottom:-20px;
+    margin-right: auto;
+    margin-left: auto;
+    content:"";
+    display: block;
+    background-image: url(../images/“.png);
+    width: 67px;
+    height: 56px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.del-item:not(:last-child){
+    margin-right: 30px;
+}
+.del-comments{
+    margin-top: 0;
+    margin-bottom: 24;
+    font-size: 15px;
+    line-height: 25px;
+    color: var(--main-bg-color)
+}
+.del-names{
+    margin-top: 0;
+    margin-bottom: 2px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: var(--deliver-name-color);
+}
+.del-position{
+    display: block;
+    margin-top: 0;
+    margin-bottom: 32px;
+    font-style: italic;
+    font-size: 13px;
+    line-height: 18px;
+    color: var(--main-text-color);
+}
+.del-img{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.baha{
+    border-radius: 50%;
+    border: 2px solid #BAF2F3;
+}
+/******** DEL SECTION END ***************/
 /************** MAIN STYLES END *************/
